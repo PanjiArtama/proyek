@@ -1,0 +1,55 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-footer {
+    background-color: #f7f7f7;
+    border-radius: 0 0 10px 10px;
+}
+
+
+.table-responsive {
+    margin-top: 20px;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table thead th {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.shadow-sm {
+    box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.1);
+}

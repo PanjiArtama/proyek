@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: url('images/header-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.bg-light-green {
+    background-color: #d4edda;
+}
+
+.card {
+    border: none;
+    margin-bottom: 20px;
+}
+
+.card-body {
+    padding: 20px;
+}
